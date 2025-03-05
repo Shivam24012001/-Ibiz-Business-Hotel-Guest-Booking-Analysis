@@ -87,4 +87,3 @@ The goal of this analysis is to uncover **booking trends**, **guest spending pat
 ## 📎 About This Project
 This project is part of my **business analytics portfolio** to demonstrate **real-world hotel data analysis** using data-driven insights.
 
-⭐️ **If you find this useful, please star this repository!**
