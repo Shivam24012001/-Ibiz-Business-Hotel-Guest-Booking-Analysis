@@ -1,6 +1,6 @@
 # 🏨 Ibiz Business Hotel: Guest Booking Analysis (April - June 2024)
 
-## 📊 Project Objective
+## 📊 Project Objective 
 
 The goal of this analysis is to uncover **booking trends**, **guest spending patterns**, and identify **frequent, recent, and high-value guests** to help **Ibiz Business Hotel** enhance its service offerings and optimize pricing strategies.
 
@@ -82,8 +82,4 @@ The goal of this analysis is to uncover **booking trends**, **guest spending pat
 - 🔎 Customer Segmentation: **RFM Analysis**
 - 📈 Business Insights & Recommendations
 
----
-
-## 📎 About This Project
-This project is part of my **business analytics portfolio** to demonstrate **real-world hotel data analysis** using data-driven insights.
 
